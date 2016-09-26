@@ -13,11 +13,9 @@ Some of them are:<br>
 3. ask user for severity and urgency of situation<br>
 <br>
 
-Within this project, step 1 is either carried out with an emergency watch or with a voice command to an Amazon Echo. A typical emergency situation is that a person has fallen and is lying on the floor without being able to move. Two of the natural reactions are to call for help or to hit the floor or any hard surface in order to get the attention of neighbours.
+Within this project, step 1 is carried out with a smartwatch. A typical emergency situation is that a person has fallen and is lying on the floor without being able to move. One natural reaction is to knock on the floor or any hard surface in order to get the attention of neighbours.
 
-Step 2 and 3 are carried out with an Amazon Echo device that starts a dialog to check whether an alarm is true and which severity it has.
-
-### Step 1 with Limmex Watch:
+### Step 1 with Smartwatch:
 
 A watch that contains an acceleration sensor and an alarm function to give out an acoustic alarm is used.<br>
 
@@ -27,3 +25,4 @@ In the recorded test data, three acceleration peaks are clearly visible:<br>
 
 ![](https://cloud.githubusercontent.com/assets/22429096/18816645/47265ee8-834e-11e6-9ca5-68a34bece510.jpg)
 
+### Step 2 & 3 as described in project Voice4Help
