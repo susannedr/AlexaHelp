@@ -26,3 +26,5 @@ In the recorded test data, three acceleration peaks are clearly visible:<br>
 ![](https://cloud.githubusercontent.com/assets/22429096/18816645/47265ee8-834e-11e6-9ca5-68a34bece510.jpg)
 
 ### Step 2 & 3 as described in project Voice4Help
+
+https://github.com/susannedr/Voice4Help/blob/master/README.md
